@@ -10,11 +10,10 @@ This project demonstrates the fundamentals of GANs by training a **Generator** a
 
 > Generated face images after training.
 
-<!-- Add your generated image here -->
-
 <p align="center">
-  <img src="results/epoch_30.png" width="700">
+  <img src="results/Results of GAN.png" width="700">
 </p>
+
 
 ---
 
